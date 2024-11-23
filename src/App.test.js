@@ -1,8 +1,8 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
+test('renders Silla text', () => {
   render(<App />);
-  const linkElement = screen.getByText(/Silla/i);
-  expect(linkElement).toBeInTheDocument();
+  const textElement = screen.getByText(/Silla/i); // Case-insensitive match for "Silla"
+  expect(textElement).toBeInTheDocument();
 });
