@@ -16,7 +16,6 @@ function App() {
 
       {/* Intro Section */}
       <section id="intro">
-        <h1>Welcome to My Portfolio</h1>
         <Intro />
       </section>
 
