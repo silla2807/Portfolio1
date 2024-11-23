@@ -1,4 +1,4 @@
-import { FaLinkedin, FaGithub, FaEnvelope, FaFileAlt } from 'react-icons/fa';
+import { FaLinkedin, FaGithub, FaFileAlt } from 'react-icons/fa';
 import { SiLeetcode } from 'react-icons/si';
 import Resume from './docu/Silla_K__Resume_SDE.pdf';
 
